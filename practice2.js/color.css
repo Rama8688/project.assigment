@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+}
+.wrapper{
+    margin-top: 300px;
+    text-align: center;
+    
+}
+.wrapper button{
+    outline: none;
+    padding: none;
+    border-radius: 30px;
+    background-color: red;
+
+}
